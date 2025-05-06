@@ -1,0 +1,16 @@
+/* Custom admin background */
+body {
+    background-color: #f4f6f9;
+}
+
+/* Custom header background */
+.navbar {
+    background-color: #343a40;
+}
+
+/* Resize the logo in the top-left corner */
+.brand-link .brand-image {
+    height: 100px !important;  /* adjust as needed */
+    width: 1000px !important;
+    object-fit: contain;
+}

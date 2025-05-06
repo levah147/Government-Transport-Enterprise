@@ -1,0 +1,16 @@
+/* Sidebar logo size fix */
+.sidebar-mini .main-sidebar .brand-link .brand-image {
+    height: 30px !important;
+    width: auto !important;
+    max-height: 20px;
+    object-fit: contain;
+}
+
+/* Optional: tweak background */
+body {
+    background-color: #f4f6f9;
+}
+
+.navbar {
+    background-color: #343a40;
+}
